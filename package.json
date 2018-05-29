@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/str4d/bitcore-build-zcash"
+    "url": "git://github.com/zcashexplorer/bitcore-build-zcash"
   },
   "keywords": [
     "bitcore"
@@ -37,9 +37,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/str4d/bitcore-build-zcash/issues"
+    "url": "https://github.com/zcashexplorer/bitcore-build-zcash/issues"
   },
-  "homepage": "https://github.com/str4d/bitcore-build-zcash",
+  "homepage": "https://github.com/zcashexplorer/bitcore-build-zcash",
   "dependencies": {
     "brfs": "^1.4.3",
     "browserify": "^13.1.1",
